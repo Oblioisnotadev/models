@@ -1,1 +1,5 @@
 AddCharModel(280, 25000, "pyramidhead.dff", "pyramidhead.txd");
+AddCharModel(280, 25001, "csher.dff", "csher.txd");
+AddCharModel(280, 25002, "csherna.dff", "csherna.txd");
+AddCharModel(280, 25003, "dsher.dff", "dsher.txd");
+AddCharModel(280, 25004, "lvpd1.dff", "lvpd1.txd");
