@@ -5,7 +5,4 @@ AddCharModel(280, 25003, "dsher.dff", "dsher.txd");
 AddCharModel(280, 25004, "lvpd1.dff", "lvpd1.txd");
 AddCharModel(280, 25005, "skin1.dff", "skin1.txd");
 AddCharModel(280, 25005, "oblioskin.dff", "oblioskin.txd");
-AddSimpleModel(-1,19142, -2000, "object.dff", "Macchia.txd");
-AddSimpleModel(-1,19142, -2001, "object.dff", "EatTD.txd");
-AddSimpleModel(-1,19142, -2002, "object.dff", "DiceTXD.txd");
-AddSimpleModel(-1,19142, -2003, "object.dff", "ATMTXD.txd");
+
