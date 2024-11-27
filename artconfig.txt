@@ -1,0 +1,112 @@
+AddSimpleModel(-1, 19379, -2001, "object_291.dff", "object_291.txd");
+AddSimpleModel(-1, 19981, -2004, "object_292.dff", "object_292.txd");
+AddSimpleModel(-1, 19142, -2003, "object_293.dff", "object_293.txd");
+AddSimpleModel(-1, 18637, -2005, "object_294.dff", "object_294.txd");
+AddSimpleModel(-1, 18637, -2006, "object_295.dff", "object_295.txd");
+AddSimpleModel(-1, 19141, -2007, "object_296.dff", "object_296.txd");
+AddSimpleModel(-1, 5145, -2002, "object_297.dff", "object_297.txd");
+AddSimpleModel(-1, 19472, -2008, "object_298.dff", "object_298.txd");
+AddSimpleModel(-1, 1210, -2009, "object_299.dff", "object_299.txd");
+AddSimpleModel(-1, 19834, -2029, "object_300.dff", "object_300.txd");
+AddSimpleModel(-1, 19142, -2011, "object_301.dff", "object_301.txd");
+AddSimpleModel(-1, 19142, -2012, "object_302.dff", "object_302.txd");
+AddSimpleModel(-1, 19142, -2013, "object_303.dff", "object_303.txd");
+AddSimpleModel(-1, 19775, -2014, "object_304.dff", "object_304.txd");
+AddSimpleModel(-1, 19379, -2015, "object_305.dff", "object_305.txd");
+AddSimpleModel(-1, 19379, -2016, "object_306.dff", "object_306.txd");
+AddSimpleModel(-1, 19379, -2017, "object_307.dff", "object_307.txd");
+AddSimpleModel(-1, 19379, -2018, "object_308.dff", "object_308.txd");
+AddSimpleModel(-1, 19379, -2019, "object_309.dff", "object_309.txd");
+AddSimpleModel(-1, 19379, -2020, "complex1.dff", "complex1.txd");
+AddSimpleModel(-1, 19379, -2021, "object_311.dff", "object_311.txd");
+AddSimpleModel(-1, 19107, -2023, "fioriealberi.dff", "fioriealberi.txd");
+AddSimpleModel(-1, 19834, -2026, "object_315.dff", "object_315.txd");
+AddSimpleModel(-1, 18962, -2025, "object_316.dff", "object_316.txd");
+AddSimpleModel(-1, 19347, -2027, "object_317.dff", "object_317.txd");
+AddSimpleModel(-1, 19142, -2028, "object_318.dff", "object_318.txd");
+AddSimpleModel(-1, 18636, -2030, "object_319.dff", "object_319.txd");
+AddSimpleModel(-1, 19107, -2031, "object_320.dff", "object_320.txd");
+AddSimpleModel(-1, 19107, -2034, "object_323.dff", "object_323.txd");
+AddSimpleModel(-1, 19107, -2035, "object_324.dff", "object_324.txd");
+AddSimpleModel(-1, 19107, -2036, "object_325.dff", "object_325.txd");
+AddSimpleModel(-1, 6063, -2037, "object_326.dff", "object_326.txd");
+AddSimpleModel(-1, 6063, -2038, "object_327.dff", "object_327.txd");
+AddSimpleModel(-1, 19785, -2039, "object_328.dff", "object_328.txd");
+AddSimpleModel(-1, 19785, -2043, "object_329.dff", "object_329.txd"); // Distintivo sulla spalla
+AddSimpleModel(-1, 19785, -2041, "object_330.dff", "object_330.txd");
+AddSimpleModel(-1, 19785, -2042, "object_331.dff", "object_331.txd");
+AddSimpleModel(-1, 19775, -2044, "object_332.dff", "object_332.txd");
+AddSimpleModel(-1, 19141, -2045, "object_333.dff", "object_333.txd");
+AddSimpleModel(-1, 19142, -2046, "object_334.dff", "object_334.txd");
+AddSimpleModel(-1, 2925, -2048, "object_337.dff", "object_337.txd"); // Baule
+AddSimpleModel(-1, 19785, -2051, "object_339.dff", "object_339.txd");
+AddSimpleModel(-1, 19785, -2052, "object_340.dff", "object_340.txd");
+AddSimpleModel(-1, 19785, -2053, "object_341.dff", "object_341.txd");
+AddSimpleModel(-1, 19785, -2054, "object_342.dff", "object_342.txd");
+AddSimpleModel(-1, 19785, -2055, "object_343.dff", "object_343.txd");
+AddSimpleModel(-1, 19377, -2056, "object_344.dff", "object_344.txd");
+AddSimpleModel(-1, 19377, -2057, "object_345.dff", "object_345.txd");
+AddSimpleModel(-1, 19785, -2058, "object_346.dff", "object_346.txd");
+AddSimpleModel(-1, 19785, -2070, "object_347.dff", "object_347.txd");
+AddSimpleModel(-1, 19785, -2067, "object_348.dff", "object_348.txd");
+AddSimpleModel(-1, 19785, -2068, "object_349.dff", "object_349.txd");
+AddSimpleModel(-1, 19785, -2069, "object_350.dff", "object_350.txd");
+AddSimpleModel(-1, 19785, -2059, "object_351.dff", "object_351.txd");
+AddSimpleModel(-1, 19785, -2060, "object_352.dff", "object_352.txd");
+AddSimpleModel(-1, 19785, -2061, "object_353.dff", "object_353.txd");
+AddSimpleModel(-1, 19785, -2062, "object_354.dff", "object_354.txd");
+AddSimpleModel(-1, 19785, -2063, "object_355.dff", "object_355.txd");
+AddSimpleModel(-1, 19785, -2064, "object_356.dff", "object_356.txd");
+AddSimpleModel(-1, 19785, -2065, "object_357.dff", "object_357.txd");
+AddSimpleModel(-1, 19785, -2066, "object_358.dff", "object_358.txd");
+AddSimpleModel(-1, 19775, -2075, "object_359.dff", "object_359.txd");
+AddSimpleModel(-1, 19775, -2076, "object_360.dff", "object_360.txd");
+AddSimpleModel(-1, 19775, -2077, "object_361.dff", "object_361.txd");
+AddSimpleModel(-1, 18638, -2078, "object_362.dff", "object_362.txd"); //Caschetto da Muratore giallo
+AddSimpleModel(-1, 18638, -2079, "object_363.dff", "object_363.txd"); //Caschetto da Muratore bianco
+AddSimpleModel(-1, 19904, -2080, "object_364.dff", "object_364.txd"); //Giubbotto catarifrangente
+AddSimpleModel(-1, 19904, -2081, "object_365.dff", "object_365.txd");
+AddSimpleModel(-1, 19904, -2082, "object_366.dff", "object_366.txd");
+AddSimpleModel(-1, 19904, -2083, "object_367.dff", "object_367.txd");
+AddSimpleModel(-1, 6063, -2084, "object_368.dff", "object_368.txd");
+AddSimpleModel(-1, 6063, -2085, "object_369.dff", "object_369.txd");
+AddSimpleModel(-1, 6063, -2086, "object_370.dff", "object_370.txd");
+AddSimpleModel(-1, 6063, -2087, "object_371.dff", "object_371.txd");
+AddSimpleModel(-1, 6063, -2088, "object_372.dff", "object_372.txd"); // Metropolitan Interior
+AddSimpleModel(-1, 6063, -2089, "object_373.dff", "object_373.txd"); // Interior Metropolitana
+//AddSimpleModel(-1, 18843, -2090, "object_374.dff", "object_374.txd");
+AddSimpleModel(-1, 1491, -2091, "object_375.dff", "object_375.txd");
+AddSimpleModel(-1, 1491, -2092, "object_376.dff", "object_376.txd");
+AddSimpleModel(-1, 1491, -2093, "object_377.dff", "object_377.txd"); // Porta bella texturizzata
+AddSimpleModel(-1, 1491, -2094, "object_378.dff", "object_378.txd"); // Porta
+AddSimpleModel(-1, 6063, -2096, "object_380.dff", "object_380.txd");
+AddSimpleModel(-1, 19347, -2097, "object_381.dff", "object_381.txd");
+AddSimpleModel(-1, 19347, -2098, "object_382.dff", "object_382.txd");
+AddSimpleModel(-1, 19347, -2099, "object_383.dff", "object_383.txd");
+AddSimpleModel(-1, 19347, -2100, "object_384.dff", "object_384.txd");
+AddSimpleModel(-1, 19781, -2101, "object_385.dff", "object_385.txd");
+AddSimpleModel(-1, 19347, -2102, "object_386.dff", "object_386.txd");
+AddSimpleModel(-1, 19347, -2103, "object_387.dff", "object_387.txd");
+AddSimpleModel(-1, 18962, -2104, "object_388.dff", "object_388.txd");
+AddSimpleModel(-1, 19379, -2105, "object_389.dff", "object_389.txd");
+AddSimpleModel(-1, 19142, -2106, "object_390.dff", "object_390.txd");
+// AddSimpleModel(-1, 19142, -2107, "object_391.dff", "object_391.txd"); // Giubbotto Sheriff
+AddSimpleModel(-1, 19347, -2108, "object_392.dff", "object_392.txd");
+AddSimpleModel(-1, 19785, -2110, "object_393.dff", "object_393.txd");
+AddSimpleModel(-1, 19785, -2111, "object_394.dff", "object_394.txd");
+AddSimpleModel(-1, 19785, -2112, "object_395.dff", "object_395.txd");
+AddSimpleModel(-1, 19119, -2113, "object_396.dff", "object_396.txd"); // Caschetto da poliziotto in moto
+AddSimpleModel(-1, 19379, -2114, "object_397.dff", "object_397.txd"); // Cappellino da agente
+AddSimpleModel(-1, 19379, -2115, "object_398.dff", "object_398.txd");
+AddSimpleModel(-1, 18762, -2118, "object_399.dff", "object_399.txd");
+AddSimpleModel(-1, 18762, -2119, "object_400.dff", "object_400.txd");
+AddSimpleModel(-1, 18762, -2120, "object_401.dff", "object_401.txd");
+AddSimpleModel(-1, 18762, -2121, "object_402.dff", "object_402.txd");
+AddSimpleModel(-1, 18762, -2122, "trainingcenter.dff", "trainingcenter.txd");
+AddSimpleModel(-1, 18762, -2123, "trainingcenter2.dff", "trainingcenter2.txd");
+AddSimpleModel(-1, 18762, -2124, "object_405.dff", "object_405.txd");
+AddSimpleModel(-1, 18762, -2125, "object_406.dff", "object_406.txd");
+AddSimpleModel(-1, 18762, -2117, "object_407.dff", "object_407.txd"); // Camion Polizia
+AddSimpleModel(-1, 18762, -3001, "lspdarmor.dff", "lspdarmor.txd"); // Collana con distintivo
+AddSimpleModel(-1, 18762, -3002, "badgelspd.dff", "badgelspd.txd"); // Distintivo LSPD
+AddSimpleModel(-1, 18762, -3003, "lspdbadgechain.dff", "lspdbadgechain.txd"); // Giubbotto leggero
