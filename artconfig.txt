@@ -114,3 +114,7 @@ AddCharModel(305, 20001, "CHIL1.dff", "CHIL1.txd");
 AddCharModel(305, 20002, "CHIL2.dff", "CHIL2.txd");
 AddCharModel(305, 20003, "CHIL3.dff", "CHIL3.txd");
 AddCharModel(305, 20004, "CHIL4.dff", "CHIL4.txd");
+AddCharModel(21, 20005, "4.dff", "4.txd");
+AddCharModel(41, 20005, "22.dff", "22.txd");
+AddCharModel(41, 20006, "Becky_Clovelly.dff", "Becky_Clovelly.txd");
+AddCharModel(21, 20007, "wmybmx.dff", "wmybmx.txd");
