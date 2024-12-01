@@ -110,3 +110,7 @@ AddSimpleModel(-1, 18762, -2117, "object_407.dff", "object_407.txd"); // Camion 
 AddSimpleModel(-1, 18762, -3001, "lspdarmor.dff", "lspdarmor.txd"); // Collana con distintivo
 AddSimpleModel(-1, 18762, -3002, "badgelspd.dff", "badgelspd.txd"); // Distintivo LSPD
 AddSimpleModel(-1, 18762, -3003, "lspdbadgechain.dff", "lspdbadgechain.txd"); // Giubbotto leggero
+AddCharModel(305, 20001, "CHIL1.dff", "CHIL1.txd");
+AddCharModel(305, 20002, "CHIL2.dff", "CHIL2.txd");
+AddCharModel(305, 20003, "CHIL3.dff", "CHIL3.txd");
+AddCharModel(305, 20004, "CHIL4.dff", "CHIL4.txd");
